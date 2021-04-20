@@ -2,7 +2,8 @@
 
 ## Полезные ссылки
 https://learn.javascript.ru/first-steps
-https://learn.javascript.ru/array
+
+https://learn.javascript.ru/data-types
 
 ## Ваши задания
 
