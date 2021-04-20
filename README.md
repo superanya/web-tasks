@@ -7,9 +7,13 @@ https://learn.javascript.ru/data-types
 
 ## Ваши задания
 
-Заготовки для заданий смотри в репозитории. Запустить можно на сайте https://codepen.io/.
+Заготовки для заданий смотри в репозитории. Запустить можно на сайте https://replit.com/languages/nodejs.
 
-Пример запуска на сайте https://drive.google.com/file/d/1cSDzRNAurPJvq1nAyIkIlp3pE1BlDlXW/view.
+Для вывода результата функции воспользуйтесь командной console.log();
+
+Пример вывода результата функции convertStringToNumber:
+
+console.log(convertStringToNumber(1));
 
 ### Farengeight
 
