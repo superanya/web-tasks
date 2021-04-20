@@ -1,5 +1,9 @@
 # web-tasks
 
+## Полезные ссылки
+https://learn.javascript.ru/first-steps
+https://learn.javascript.ru/array
+
 ## Ваши задания
 
 Заготовки для заданий смотри в репозитории. Запустить можно на сайте https://codepen.io/.
