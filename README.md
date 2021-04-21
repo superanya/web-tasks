@@ -15,7 +15,7 @@ https://ru.code-basics.com/languages/javascript/lessons/interpolation#:~:text=%D
 
 Заготовки для заданий смотри в репозитории. Запустить можно на сайте https://replit.com/languages/nodejs.
 
-Для вывода результата функции воспользуйтесь командной console.log();
+Для вывода результата функции воспользуйтесь командой console.log();
 
 Пример вывода результата функции convertStringToNumber:
 
