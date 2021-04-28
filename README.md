@@ -1,5 +1,9 @@
 # web-tasks
 
+## Презентация про JavaScript в браузере
+
+https://www.canva.com/design/DAEcUgKHSCU/s5J7_EuTrnhgJvTzGARoTA/view?utm_content=DAEcUgKHSCU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
 ## Полезные ссылки
 Общие ссылки, более полно раскрывают то, о чем говорили на лекции:
 
@@ -79,7 +83,4 @@ _f = (c × 9/5) + 32_, где __f__ — градусы Фаренгейта, __c
 
 [1, [2, [3, [4]]]] → 10
 
-## Презентация про JavaScript в браузере
-
-https://www.canva.com/design/DAEcUgKHSCU/s5J7_EuTrnhgJvTzGARoTA/view?utm_content=DAEcUgKHSCU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
